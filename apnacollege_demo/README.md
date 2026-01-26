@@ -1,4 +1,4 @@
 # apnacollege_demo
 this is my first github project
 <br>
-Authour - Roshani Choudhary
+Authour - Roshani (Apna Collge)
